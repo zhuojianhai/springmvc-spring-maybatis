@@ -12,6 +12,7 @@
         <module>spring-full-annotation</module>
         <module>springmvc-spring-mybatis</module>
         <module>single-mybatis</module>
+        <module>spring-javabase</module>
     </modules>
 
 
