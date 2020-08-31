@@ -10,5 +10,7 @@ public class Test {
         synchronized (object){
             System.out.println(ClassLayout.parseInstance(object).toPrintable());
         }
+
+        System.out.println( ClassLayout.parseInstance(object).toString());
     }
 }
